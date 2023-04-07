@@ -13,7 +13,7 @@
   
   <p align="center">
   <a href="http://jenilpatel1301.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-red"></a>
-  <a href="https://github.com/jenilpatel1301/jenilpatel1301.github.io/blob/main/JenilResume.pdf"><img src="https://img.shields.io/badge/Resume-blue"></a>
+  <a href="https://github.com/jenilpatel1301/jenilpatel1301.github.io/blob/main/JenilResume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-blue"></a>
     <!--https://dev.to/envoy_/150-badges-for-github-pnk-->
 </p>
 
