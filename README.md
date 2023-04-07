@@ -9,6 +9,7 @@
 <p align="center">   
   <a href="mailto:jenilp110@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=0078D4"></a>
   <a href="https://linkedin.com/in/jenil-patel-044456197/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0078D4"></a>
+  <a href="http://jenilpatel1301.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=Portfolio&logoColor=0078D4"></a>
     <!--https://dev.to/envoy_/150-badges-for-github-pnk-->
 </p>
 
@@ -33,7 +34,7 @@ class Student:
     def say_hi(self):
         print("Thanks for dropping by, hope you find interesting my profile :)")
 
-    def __portfolio__ = <a href="http://jenilpatel1301.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=Portfolio&logoColor=0078D4"></a>
+    
 
 me = Student()
 me.say_hi()
