@@ -14,10 +14,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jenilpatel1301&label=Profile%20views&color=0e75b6&style=flat" alt="jenilpatel1301" /> </p>
 
-## 🏋 About Me
+## 👨🏻‍💻 About Me
 
 ```python
-#!/usr/bin/python
+#!/usr/bin
 # -*- coding: utf-8 -*-
 
 
@@ -33,7 +33,8 @@ class Student:
     def say_hi(self):
         print("Thanks for dropping by, hope you find interesting my profile :)")
 
-
+    def __portfolio__ = <a href="[JenilResume.pdf](https://github.com/jenilpatel1301/jenilpatel1301/files/11180556/JenilResume.pdf)
+"><img src="![profile](https://user-images.githubusercontent.com/125921877/230654399-bf5772c0-e63d-438b-b79e-fd221ef08bb7.png)"/></a>
 
 me = Student()
 me.say_hi()
