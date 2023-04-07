@@ -28,9 +28,11 @@ class Student:
         self.role = "Degree in Computer Programming and Analysis"
         self.language = ["Python", "Java", "C#", "C++", "JavaScript"]
         self.database = ["MySQL", "Oracle", "MongoDB", "SQLite"]
+        self.cloud_platform = ["Amazon Web Services (AWS)", "Microsoft Azure"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find interesting my profile :)")
+
 
 
 me = Student()
