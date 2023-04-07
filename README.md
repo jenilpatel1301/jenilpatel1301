@@ -33,8 +33,7 @@ class Student:
     def say_hi(self):
         print("Thanks for dropping by, hope you find interesting my profile :)")
 
-    def __portfolio__ = <a href="http://jenilpatel1301.github.io/"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fportfolio-word%3Fimage_type%3Dvector&psig=AOvVaw3l6exl08aZpj5HSLAsRF3g&ust=1680978452241000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLiXhe6ymP4CFQAAAAAdAAAAABAE![image](https://user-images.githubusercontent.com/125921877/230659275-f996880f-00cc-4fa2-b587-9ec5ac989d67.png)
-"/></a>
+    def __portfolio__ = <a href="http://jenilpatel1301.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=Portfolio&logoColor=0078D4"></a>
 
 me = Student()
 me.say_hi()
