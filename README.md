@@ -8,7 +8,7 @@
 
 <p align="center">   
   <a href="mailto:jenilp110@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=0078D4"></a>
-  <a href="https://linkedin.com/in/jenil-patel-044456197/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0078D4"></a>
+  <a href="https://linkedin.com/in/jenilpatel1301/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0078D4"></a>
   </p>
   
   <p align="center">
