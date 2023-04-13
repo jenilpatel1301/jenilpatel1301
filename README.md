@@ -54,7 +54,7 @@ me.say_hi()
 
   <hr/>
 
-  <div>
+<!--   <div>
     <img alt="Jenil Patel's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=Jenilpatel1301&custom_title=Jenil%Patel's%20Contribution%20Graph&bg_color=0D1117&color=0078D4&line=FFFFFF&point=0078D4&hide_border=true" />
   <div>
-</div>
+</div> -->
