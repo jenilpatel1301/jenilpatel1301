@@ -44,7 +44,7 @@ class Student:
 me = Student()
 me.say_hi()
 ```
-<hr/>
+
 ## 📈 Github Stats
 
 <div align="center">
