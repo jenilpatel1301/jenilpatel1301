@@ -44,7 +44,7 @@ class Student:
 me = Student()
 me.say_hi()
 ```
-
+<hr/>
 ## 📈 Github Stats
 
 <div align="center">
@@ -52,9 +52,6 @@ me.say_hi()
     <img alt="Jenil Patel's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=jenilpatel1301&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=FFFFFF&sideLabels=0078D4&currStreakLabel=0078D4&stroke=0078D4&ring=0078D4" />
   </div>
 
-  <hr/>
+  
 
-<!--   <div>
-    <img alt="Jenil Patel's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=Jenilpatel1301&custom_title=Jenil%Patel's%20Contribution%20Graph&bg_color=0D1117&color=0078D4&line=FFFFFF&point=0078D4&hide_border=true" />
-  <div>
-</div> -->
+
