@@ -30,11 +30,13 @@ class Student:
 
     def __init__(self):
         self.name = "Jenil Patel"
-        self.role = "Degree in Computer Programming and Analysis"
+        self.education = "Degree in Computer Programming and Analysis"
         self.language = ["Python", "Java", "C#", "C++", "JavaScript"]
-        self.database = ["MySQL", "Oracle", "MongoDB", "SQLite"]
+        self.frameworks = ["jQuery", "Node.js", "Angular.js", "React.js"]
+        self.database = ["MySQL", "Oracle", "MongoDB"]
         self.cloud_platform = ["Amazon Web Services (AWS)", "Microsoft Azure"]
-        self.
+        self.bug_tracking_software = ["MantisBT", "Jira", "Postman", "Selenium"]
+        
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find interesting my profile :)")
