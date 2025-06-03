@@ -31,10 +31,8 @@ class Student:
     def __init__(self):
         self.name = "Jenil Patel"
         self.education = "Degree in Computer Programming and Analysis"
-        self.language = ["Python", "Java", "C#", "C++", "JavaScript"]
-        self.frameworks = ["jQuery", "Node.js", "Angular.js", "React.js"]
-        self.database = ["MySQL", "Oracle", "MongoDB"]
-        self.cloud_platform = ["Amazon Web Services (AWS)", "Microsoft Azure"]
+        self.language = ["Python", "C#"]
+        self.database = ["MySQL", "Oracle", "MongoDB", "PostgreSQL"]
         self.bug_tracking_software = ["MantisBT", "Jira", "Postman", "Selenium"]
         
 
